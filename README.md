@@ -3,6 +3,7 @@
 A single-file, offline viewer for `.jwpub` publications. Open the HTML file in a browser, drop a `.jwpub` onto it, and read. Everything runs locally in the page: the file is never uploaded anywhere.
 
 The decryption logic follows [jwpub-toolkit](https://github.com/thenights20/jwpub-toolkit) and its `JWPUB_FORMAT.md`.
+<img width="1634" height="815" alt="image" src="https://github.com/user-attachments/assets/4c5e5c47-d2b8-4bb2-ab55-b27c17a1af4c" />
 
 ## Features
 
